@@ -1,1 +1,1 @@
-# game-learning-c-plus-plus
+# 게임으로 배우는 c++ 예제 코드
