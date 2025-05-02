@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c++ 7 monster", "c++ 7 monster.vcxproj", "{CAF52688-04E4-4B08-A4C7-C01A02700F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF52688-04E4-4B08-A4C7-C01A02700F03}.Debug|x64.ActiveCfg = Debug|x64
+		{CAF52688-04E4-4B08-A4C7-C01A02700F03}.Debug|x64.Build.0 = Debug|x64
+		{CAF52688-04E4-4B08-A4C7-C01A02700F03}.Debug|x86.ActiveCfg = Debug|Win32
+		{CAF52688-04E4-4B08-A4C7-C01A02700F03}.Debug|x86.Build.0 = Debug|Win32
+		{CAF52688-04E4-4B08-A4C7-C01A02700F03}.Release|x64.ActiveCfg = Release|x64
+		{CAF52688-04E4-4B08-A4C7-C01A02700F03}.Release|x64.Build.0 = Release|x64
+		{CAF52688-04E4-4B08-A4C7-C01A02700F03}.Release|x86.ActiveCfg = Release|Win32
+		{CAF52688-04E4-4B08-A4C7-C01A02700F03}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C80D244B-51EE-4CF0-B719-605E118FCEFE}
+	EndGlobalSection
+EndGlobal
