@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++ 이상민 MonsterWorld 7", "C++ 이상민 MonsterWorld 7.vcxproj", "{7C197F5F-B765-4A0E-930C-AACA1F572CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C197F5F-B765-4A0E-930C-AACA1F572CCA}.Debug|x64.ActiveCfg = Debug|x64
+		{7C197F5F-B765-4A0E-930C-AACA1F572CCA}.Debug|x64.Build.0 = Debug|x64
+		{7C197F5F-B765-4A0E-930C-AACA1F572CCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C197F5F-B765-4A0E-930C-AACA1F572CCA}.Debug|x86.Build.0 = Debug|Win32
+		{7C197F5F-B765-4A0E-930C-AACA1F572CCA}.Release|x64.ActiveCfg = Release|x64
+		{7C197F5F-B765-4A0E-930C-AACA1F572CCA}.Release|x64.Build.0 = Release|x64
+		{7C197F5F-B765-4A0E-930C-AACA1F572CCA}.Release|x86.ActiveCfg = Release|Win32
+		{7C197F5F-B765-4A0E-930C-AACA1F572CCA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4493DE-C52A-4305-9523-C34E05A32D97}
+	EndGlobalSection
+EndGlobal
